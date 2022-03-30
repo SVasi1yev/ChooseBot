@@ -15,4 +15,5 @@
 
 ### Сторонние пакеты
 * https://pypi.org/project/pyTelegramBotAPI/
-* ...
+* Django / Flask
+* https://pypi.org/project/psycopg2/
